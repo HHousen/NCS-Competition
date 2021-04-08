@@ -1,4 +1,4 @@
-# FM03
+# FM03 - 250pts
 
 ## Briefing
 
